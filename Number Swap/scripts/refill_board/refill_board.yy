@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"refill_board",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"refill_board",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
